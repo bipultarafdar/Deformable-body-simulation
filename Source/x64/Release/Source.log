@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cag\finalproject\source\source\DeformablePoint.h(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\cag\finalproject\source\source\DeformablePoint.h(19): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(155): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+Source.cpp(156): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+Source.cpp(239): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(242): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(267): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(268): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(295): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Source.cpp(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(299): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+Source.cpp(299): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Source.cpp(531): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Source.cpp(569): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  34 of 1006 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Source.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\CAG\FinalProject\Source\x64\Release\Source.exe
+  Source.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\CAG\FinalProject\Source\x64\Release\Source.pdb (Full PDB)
